@@ -21,10 +21,11 @@ Plataforma web simples de apostas no estilo tradicional do **Jogo do Bicho**, re
 - PHP (versão com banco de dados em desenvolvimento)
 - Sem frameworks – roda em qualquer hospedagem barata
 
+## ATENÇÃO
+OBS.: O PROJETO SEGUE EM DESENVOLVIMENTO E RECEBERÁ NOVAS FUNCIONALIDADES EM BREVE.
+
 ## Como rodar localmente
 
 ```bash
 git clone https://github.com/BrunoBBl/Jogo-dos-animais.git
 cd Jogo-dos-animaiS
-
-OBS.: O PROJETO SEGUE EM DESENVOLVIMENTO.
